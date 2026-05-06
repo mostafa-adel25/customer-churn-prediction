@@ -74,7 +74,5 @@ Python · Scikit-learn · XGBoost · LightGBM · Imbalanced-learn · Pandas · N
 ├── churn_project.ipynb
 └── README.md
 ```
-## 🚀 How to Run
 
 
-حطه مباشرةً في ملف `README.md` في الـ repo وهيطلع احترافي جداً ✅
